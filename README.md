@@ -11,7 +11,7 @@ Em caso de Duvidas, acesse nossas comunidades:
 *   YouTube 👉 [https://www.youtube.com/c/DicasdoMateus](https://www.youtube.com/c/DicasdoMateus)
 
 
-*   Versão Opencore: 0.7.9
+*   Versão Opencore: 0.8.0
   
   
 A EFI é Hibrida e Funciona tanto para Monterey e Big Sur.
